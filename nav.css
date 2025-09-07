@@ -1,0 +1,22 @@
+    nav{
+        background-color:black;
+        color: white;
+        padding: 15px;
+    }
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left:70%;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color:lightblue;
+}
+
+input{
+    width:60%;
+    padding: 10px;
+}
